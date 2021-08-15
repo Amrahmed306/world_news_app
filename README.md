@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project.
+A new Flutter project for world news app using NewsAPI and Bloc state management.
 
 ## Getting Started
 
